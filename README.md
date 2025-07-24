@@ -1,0 +1,1 @@
+# smartlift-account-deletion-request
